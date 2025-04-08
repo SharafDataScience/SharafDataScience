@@ -33,7 +33,12 @@
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-sharaf-2824151a5/)
-[![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/sharafcomputer)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abdullah-Sharaf-4)
-
+<a href="https://www.linkedin.com/in/abdullah-sharaf-2824151a5/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://www.datacamp.com/portfolio/sharafcomputer" target="_blank">
+  <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=white" alt="DataCamp">
+</a>
+<a href="https://www.researchgate.net/profile/Abdullah-Sharaf-4" target="_blank">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate">
+</a>
