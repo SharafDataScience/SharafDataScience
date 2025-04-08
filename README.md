@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah 👋
+# Hi there, I'm Sharaf 👋
 
 > “Data is the new oil, but insight is the combustion.” – Anonymous
 
