@@ -1,5 +1,5 @@
 
-#“The people who are crazy enough to think they can change the world are the ones who do.”
+### “The people who are crazy enough to think they can change the world are the ones who do.”
 — Steve Jobs
 
 I’m a Data Science enthusiast with a passion for statistics, AI & IoT, and building things that matter.
