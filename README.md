@@ -35,3 +35,5 @@
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-sharaf-2824151a5/)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/sharafcomputer)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abdullah-Sharaf-4)
+
