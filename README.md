@@ -21,6 +21,7 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Databases](https://img.shields.io/badge/Databases-336791?style=flat)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat&logo=anaconda&logoColor=white)
